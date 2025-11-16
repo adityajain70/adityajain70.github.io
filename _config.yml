@@ -1,7 +1,7 @@
-theme: jekyll-theme-minimal
+theme: jekyll/minima@1e8a445
 title: Aditya Jain's Homepage
 description: Portfolio
 # Setup
 url:                 http://adityajain70.github.io/
 baseurl:             /
-tagline:              Portfolio
+tagline:             Portfolio

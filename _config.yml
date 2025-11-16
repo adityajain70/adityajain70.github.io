@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
-title: Aditya Jain's homepage
-description: Aditya Jain ePortfolio
+title: Aditya Jain's Homepage
+description: Portfolio
+# Setup
+url:                 http://adityajain70.github.io/
+baseurl:             /

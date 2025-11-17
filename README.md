@@ -3,8 +3,6 @@ I know this website this very minimal, but I created it just for _you_ - a wonde
 
 I'm curious to explore how programming tools, and computing education as a whole, should adapt to preserve the essense of learning CS in the AI era. My research lies at the crossroads of **HCI, CS Education, and AI**.
 
-Below, you'll find links for relevant work from my research experiences, projects, and other academic involvements.
-
 #### Link to my [CV](/files/Jain_Aditya_CV.pdf)
 
 ### Publications

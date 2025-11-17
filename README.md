@@ -3,7 +3,9 @@ I know this website is very minimal, but I created it just for _you_ - a wonderf
 
 I'm curious to explore how programming tools, and computing education as a whole, should adapt to preserve the essense of learning CS in the AI era. My research lies at the crossroads of **HCI, CS Education, and AI**.
 
-### Link to my [CV](/files/Jain_Aditya_CV.pdf)
+Below you'll find links to relevant research and selected projects.
+
+### My [CV](/files/Jain_Aditya_CV.pdf)
 
 ### Publications
 **A. Jain**, R. Bockmon, C. Bourke, S. Cooper. <a href="https://doi.org/10.1145/3576882.3617910" target="_blank" rel="noopener noreferrer">Validating a Language-Independent CS1 Learning Outcomes Assessment.</a>  _Proceedings of the ACM Conference on Global Computing Education_. (CompEd 2023)

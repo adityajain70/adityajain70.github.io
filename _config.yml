@@ -3,11 +3,10 @@ title: Aditya Jain's Homepage
 description: Portfolio
 # Setup
 url:                 http://adityajain70.github.io/
-baseurl:             /
-tagline:             Portfolio
 
 # Add these lines:
 logo: /images/pic3.jpeg  # Path to your photo
 show_downloads: false
 github:
   is_project_page: false
+  is_user_page: false

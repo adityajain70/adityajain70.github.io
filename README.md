@@ -7,5 +7,8 @@ Below, you'll find links for relevant work from my past research work, projects,
 
 ### Peer-Reviewed Publications
 #### An Example of one of the Machine Learning Homework Assignment I wrote as a TA: [Markov Models and Time Series Forecasting](/files/sample-ml-homework-assignment.pdf)
-#### Snippet of a Guest Lecture I gave on AI-Generated Music: [Watch on YouTube](https://youtu.be/pUjr0CpeLDY)
+#### Snippet of a Guest Lecture I gave on AI-Generated Music: <a href="https://youtu.be/pUjr0CpeLDY" target="_blank" rel="noopener noreferrer">Watch the video</a>
+
 #### (Bonus) The Final Paper from the QR Code Story: [Paper Link](/files/Final%20Project%20-%20Aditya%20Jain.pdf)
+
+

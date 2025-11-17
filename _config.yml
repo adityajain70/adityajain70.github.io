@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Aditya Jain's Homepage
-description: ajain9@unl.edu | (402) 517-5659 | adityajain7@outlook.com
+# description: adityajain7@outlook.com | (402) 517-5659 
+description: "[adityajain7@outlook.com](mailto:adityajain7@outlook.com) | (402) 517-5659"
 # Setup
 url:                 http://adityajain70.github.io/
 

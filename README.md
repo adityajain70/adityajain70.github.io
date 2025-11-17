@@ -10,7 +10,7 @@ Below you'll find links to relevant research and selected projects.
 ### Publications
 **A. Jain**, R. Bockmon, C. Bourke, S. Cooper. <a href="https://doi.org/10.1145/3576882.3617910" target="_blank" rel="noopener noreferrer">Validating a Language-Independent CS1 Learning Outcomes Assessment.</a>  _Proceedings of the ACM Conference on Global Computing Education_. (CompEd 2023)
 
-**A. Jain**, K. Stanke. <a href="https://advance.nebraska.edu/browse/unl/programs/ai-foundations-and-applications-a-youth-teaching-guide" target="_blank" rel="noopener noreferrer">AI Foundations and Applications: A Youth Teaching Guide.</a> _University of Nebraska Online Education_. (2025)
+**A. Jain**, K. Stanke. <a href="https://advance.nebraska.edu/browse/unl/courses/ai-foundations-and-applications-a-youth-teaching-guide-level-1---what-is-ai-and-how-does-it-work" target="_blank" rel="noopener noreferrer">AI Foundations and Applications: A Youth Teaching Guide.</a> _University of Nebraska Online Education_. (2025)
 
 R. Bockmon, **A. Jain**, S. Cooper. [The Dangers of Participation Bias in Computer Science Educational Studies.](/files/ITiCSE24_ParticipationBias.pdf) (2025) _(Revisions in Progress from ITiCSE submission)_
 

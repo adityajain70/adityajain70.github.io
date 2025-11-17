@@ -1,7 +1,7 @@
 ## Welcome!
 I know this website this very minimal, but I created it just for _you_ - a wonderful grad school admissions committee member!
 
-I'm curious to explore how programming tools and computing education all together should adapt, to preserve the essense of learning CS in the AI era. My research lies at the crossroads of **HCI, CS Education, and AI**.
+I'm curious to explore how programming tools, and computing education as a whole, should adapt to preserve the essense of learning CS in the AI era. My research lies at the crossroads of **HCI, CS Education, and AI**.
 
 Below, you'll find links for relevant work from my research experiences, projects, and other academic involvements.
 
@@ -17,9 +17,9 @@ R. Bockmon, **A. Jain**, S. Cooper. [The Dangers of Participation Bias in Comput
 **A. Jain**, K. Stanke. [From Questioning to Qualified: A Case Study of a Professional Development AI Literacy Module for Youth Educators.](/files/AI_Badge_Journal_Article.pdf) _International Journal of STEM Education_. (2025) _(Manuscript in Preparation)_
 
 ### Other Relevant Work
-Snippet of a Guest Lecture I gave on AI-Generated Music: <a href="https://youtu.be/pUjr0CpeLDY" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+Video snippet of a Guest Lecture I gave on AI-Generated Music: <a href="https://youtu.be/pUjr0CpeLDY" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
 
-An Example of one of the Machine Learning Homework Assignment I wrote as a TA: [Markov Models and Time Series Forecasting](/files/sample-ml-homework-assignment.pdf)
+Example of one of the Machine Learning Homework Assignments I wrote as a TA: [Markov Models and Time Series Forecasting](/files/sample-ml-homework-assignment.pdf)
 
 Slide deck of my favorite Guest Lecture I gave: [Storytelling With Data](/files/Storytelling-with-data.pdf)
 

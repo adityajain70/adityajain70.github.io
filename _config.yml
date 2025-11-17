@@ -7,7 +7,7 @@ baseurl:             /
 tagline:             Portfolio
 
 # Add these lines:
-logo: /images/pic2.jpeg  # Path to your photo
+logo: /images/pic3.jpeg  # Path to your photo
 show_downloads: false
 github:
   is_project_page: false

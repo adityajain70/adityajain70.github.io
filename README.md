@@ -14,7 +14,7 @@ R. Bockmon, **A. Jain**, S. Cooper. [The Dangers of Participation Bias in Comput
 
 **A. Jain**, K. Stanke. [From Questioning to Qualified: A Case Study of a Professional Development AI Literacy Module for Youth Educators.](/files/AI_Badge_Journal_Article.pdf) _International Journal of STEM Education_. (2025) _(Manuscript in Preparation)_
 
-### Other Relevant Work
+### Other Sampled Work
 Video snippet of a Guest Lecture I gave on AI-Generated Music: <a href="https://youtu.be/pUjr0CpeLDY" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
 
 Example of one of the Machine Learning Homework Assignments I wrote as a TA: [Markov Models and Time Series Forecasting](/files/sample-ml-homework-assignment.pdf)

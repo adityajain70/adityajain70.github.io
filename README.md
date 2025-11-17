@@ -10,9 +10,9 @@ Below, you'll find links for relevant work from my past research work, projects,
 
 **A. Jain**, K. Stanke. <a href="https://advance.nebraska.edu/browse/unl/programs/ai-foundations-and-applications-a-youth-teaching-guide" target="_blank" rel="noopener noreferrer">AI Foundations and Applications: A Youth Teaching Guide.</a> _University of Nebraska Online Education_. (2025)
 
-**A. Jain**, K. Stanke. [From Questioning to Qualified: A Case Study of a Professional Development AI Literacy Module for Youth Educators.](/files/AI_Badge_Journal_Article.pdf) _International Journal of STEM Education_. (2025) _(Manuscript in Preparation)_
-
 R. Bockmon, **A. Jain**, S. Cooper. [The Dangers of Participation Bias in Computer Science Educational Studies.](/files/ITiCSE24_ParticipationBias.pdf) (2025) _(Revisions in Progress from ITiCSE submission)_
+
+**A. Jain**, K. Stanke. [From Questioning to Qualified: A Case Study of a Professional Development AI Literacy Module for Youth Educators.](/files/AI_Badge_Journal_Article.pdf) _International Journal of STEM Education_. (2025) _(Manuscript in Preparation)_
 
 ### Other Relevant Work
 Snippet of a Guest Lecture I gave on AI-Generated Music: <a href="https://youtu.be/pUjr0CpeLDY" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>

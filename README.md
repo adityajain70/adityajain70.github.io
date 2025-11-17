@@ -12,13 +12,14 @@ Below, you'll find links for relevant work from my past research work, projects,
 
 **A. Jain**, K. Stanke. [From Questioning to Qualified: A Case Study of a Professional Development AI Literacy Module for Youth Educators.](/files/AI_Badge_Journal_Article.pdf) _International Journal of STEM Education_. (2025) _(Manuscript in Preparation)_
 
-R. Bockmon, **A. Jain**, S. Cooper. [The Dangers of Participation Bias in Computer Science Educational Studies.](/files/ITiCSE24_ParticipationBias.pdf) (2025) _(Revisions in Progress)_
+R. Bockmon, **A. Jain**, S. Cooper. [The Dangers of Participation Bias in Computer Science Educational Studies.](/files/ITiCSE24_ParticipationBias.pdf) (2025) _(Revisions in Progress from ITiCSE submission)_
 
-<hr style="border: 0; height: 0.5px; background: #ccc;">
+### Other Relevant Work
+Snippet of a Guest Lecture I gave on AI-Generated Music: <a href="https://youtu.be/pUjr0CpeLDY" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
 
 An Example of one of the Machine Learning Homework Assignment I wrote as a TA: [Markov Models and Time Series Forecasting](/files/sample-ml-homework-assignment.pdf)
 
-Snippet of a Guest Lecture I gave on AI-Generated Music: <a href="https://youtu.be/pUjr0CpeLDY" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+Slide deck of my favorite Lecture I gave: [Storytelling With Data](/files/Storytelling-with-data.pdf)
 
 _(Bonus)_ The Final Paper from the QR Code Story: [Paper Link](/files/Final%20Project%20-%20Aditya%20Jain.pdf)
 

@@ -1,5 +1,5 @@
 ## Welcome!
-I know this website this very minimal, but I created it just for _you_ - a wonderful grad school admissions committee member!
+I know this website is very minimal, but I created it just for _you_ - a wonderful grad school admissions committee member!
 
 I'm curious to explore how programming tools, and computing education as a whole, should adapt to preserve the essense of learning CS in the AI era. My research lies at the crossroads of **HCI, CS Education, and AI**.
 

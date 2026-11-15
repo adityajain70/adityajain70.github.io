@@ -5,7 +5,7 @@ description: '<a href="mailto:jain.aditya@nyu.edu">jain.aditya@nyu.edu</a> | <a 
 url:                 http://adityajain70.github.io/
 
 # Add these lines:
-logo: /images/pic4.jpeg  # Path to your photo
+logo: /images/pic4.JPEG  # Path to your photo
 show_downloads: false
 github:
   is_project_page: false

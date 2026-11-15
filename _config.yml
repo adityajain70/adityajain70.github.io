@@ -1,11 +1,11 @@
 theme: jekyll-theme-minimal
 title: Aditya Jain's Homepage
-description: '<a href="mailto:adityajain7@outlook.com">adityajain7@outlook.com</a> | <a href="tel:+14025175659">402-517-5659</a>'
+description: '<a href="mailto:jain.aditya@nyu.edu">jain.aditya@nyu.edu</a> | <a href="tel:+14025175659">402-517-5659</a>'
 # Setup
 url:                 http://adityajain70.github.io/
 
 # Add these lines:
-logo: /images/pic3.jpeg  # Path to your photo
+logo: /images/pic4.jpeg  # Path to your photo
 show_downloads: false
 github:
   is_project_page: false

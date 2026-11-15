@@ -1,9 +1,10 @@
-## Welcome!
-I know this website is very minimal, but I created it just for _you_ - a wonderful grad school admissions committee member!
+## About Me
 
-I'm curious to explore how programming tools, and computing education as a whole, should adapt to preserve the essense of learning CS in the AI era. My research lies at the crossroads of **HCI, CS Education, and AI**.
+I'm a Computer Science PhD student at **New York University (NYU)**, interested in how AI is changing the way students learn computer science. My research focuses on understanding and measuring **student–AI behaviors during programming** to explore how we can **use those to assess learning outcomes** in educational settings.
 
-Below you'll find links to relevant research and selected projects.
+I love to teach and have been fortunate to give guest lectures as an undergraduate and graduate TA in data science and AI-related courses, alongside opportunities to work with undergraduate students. My teaching philosophy centers on being deeply empathetic to students' motivations and earning their attention: **how students feel while learning strongly shapes how far they choose to pursue a subject matter.**
+
+Below you'll find relevant publications along with selected examples of my teaching and other work.
 
 ### My [CV](/files/Jain_Aditya_CV.pdf)
 
@@ -19,10 +20,9 @@ R. Bockmon, **A. Jain**, S. Cooper. [The Dangers of Participation Bias in Comput
 ### Other Sampled Work
 Video snippet of a Guest Lecture I gave on AI-Generated Music: <a href="https://youtu.be/pUjr0CpeLDY" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
 
-Example of one of the Machine Learning Homework Assignments I wrote as a TA: [Markov Models and Time Series Forecasting](/files/sample-ml-homework-assignment.pdf)
+Example of one of the Foundations of AI for Engineering homework assignments I wrote as a TA. ["Coding" Models and Evaluating Deployment](/files/CS-UY-2302-hw2.ipynb)
+
+Example of one of the Machine Learning homework assignments I wrote as a TA: [Markov Models and Time Series Forecasting](/files/sample-ml-homework-assignment.pdf)
 
 Slide deck of my favorite Guest Lecture I gave: [Storytelling With Data](/files/Storytelling-with-data.pdf)
-
-_(Bonus)_ The Final Paper from the QR Code Story: [Paper Link](/files/Final%20Project%20-%20Aditya%20Jain.pdf)
-
 

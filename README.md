@@ -2,7 +2,7 @@
 
 I'm a Computer Science PhD student at New York University, interested in how AI is changing the way students learn computer science. My research focuses on understanding and measuring **student–AI behaviors during programming** to explore how we can use those to assess learning outcomes in educational settings.
 
-I love to teach and have been fortunate to give guest lectures as an undergraduate and graduate TA in data science and AI-related courses, alongside opportunities to work with undergraduate students. My teaching philosophy centers on being deeply empathetic to students' motivations and earning their attention: how students *feel while learning* strongly shapes *how far they pursue* a subject matter.
+I love teaching and have been fortunate to deliver guest lectures in data science and AI-related courses as both an undergraduate and graduate TA, while also having opportunities to mentor and work closely with undergraduate students. My teaching philosophy centers on being deeply empathetic to students' motivations and earning their attention: how students *feel while learning* strongly shapes *how far they pursue* a subject matter.
 
 Below you'll find relevant publications along with selected examples of my teaching and other work.
 

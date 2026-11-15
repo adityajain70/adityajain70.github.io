@@ -1,8 +1,8 @@
 ## About Me
 
-I'm a Computer Science PhD student at New York University (NYU), interested in how AI is changing the way students learn computer science. My research focuses on understanding and measuring **student–AI behaviors during programming** to explore how we can use those to assess learning outcomes in educational settings.
+I'm a Computer Science PhD student at New York University, interested in how AI is changing the way students learn computer science. My research focuses on understanding and measuring **student–AI behaviors during programming** to explore how we can use those to assess learning outcomes in educational settings.
 
-I love to teach and have been fortunate to give guest lectures as an undergraduate and graduate TA in data science and AI-related courses, alongside opportunities to work with undergraduate students. My teaching philosophy centers on being deeply empathetic to students' motivations and earning their attention: how students *feel while learning* strongly shapes how far they pursue a subject matter.
+I love to teach and have been fortunate to give guest lectures as an undergraduate and graduate TA in data science and AI-related courses, alongside opportunities to work with undergraduate students. My teaching philosophy centers on being deeply empathetic to students' motivations and earning their attention: how students *feel while learning* strongly shapes *how far they pursue* a subject matter.
 
 Below you'll find relevant publications along with selected examples of my teaching and other work.
 
@@ -11,7 +11,7 @@ Below you'll find relevant publications along with selected examples of my teach
 ### Publications
 **A. Jain**, R. Bockmon, C. Bourke, S. Cooper. <a href="https://doi.org/10.1145/3576882.3617910" target="_blank" rel="noopener noreferrer">Validating a Language-Independent CS1 Learning Outcomes Assessment.</a>  _Proceedings of the ACM Conference on Global Computing Education_. (CompEd 2023)
 
-**A. Jain**, K. Stanke. <a href="https://advance.nebraska.edu/browse/unl/courses/ai-foundations-and-applications-a-youth-teaching-guide-level-1---what-is-ai-and-how-does-it-work" target="_blank" rel="noopener noreferrer">AI Foundations and Applications: A Youth Teaching Guide.</a> _University of Nebraska Online Education_. (2025)
+**A. Jain**, K. Stanke. <a href="https://nebraska.badges.parchment.com/public/badges/Eec415frQe-NZ9Axzj-_kg" target="_blank" rel="noopener noreferrer">AI Foundations and Applications: A Youth Teaching Guide.</a> _University of Nebraska Online Education_. (2025)
 
 R. Bockmon, **A. Jain**, S. Cooper. [The Dangers of Participation Bias in Computer Science Educational Studies.](/files/ITiCSE24_ParticipationBias.pdf) (2025) _(Revisions in Progress from ITiCSE submission)_
 
